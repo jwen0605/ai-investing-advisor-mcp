@@ -78,3 +78,7 @@ views.py   — UI (three-column chat interface with live MCP flow panel)
 ## Why MCP?
 
 Without MCP, you'd hardcode every tool schema, write dispatch logic for each tool, and manually wire up API calls. With MCP, `session.list_tools()` and `session.call_tool()` handle all of that — the server owns the tools, your app just connects.
+
+## Contributors
+
+- [@jwen0605](https://github.com/jwen0605)
